@@ -8,11 +8,19 @@
 
 ```
 PowerBI-Dashboards/
-├── HR-Analysis-Dashboard.png          # Preview of the HR dashboard
-├── Supermarket-Dashboard.png          # Preview of the supermarket dashboard
-├── HR_Analysis.pbix                   # Power BI file for HR Dashboard
-├── Supermarket_Store.pbix            # Power BI file for Supermarket Dashboard
-└── README.md                          # Documentation
+├── HR-Dashboard/
+│   ├── HR_Analysis.pbix                   # Power BI file for HR Dashboard
+│   └── HR-Analysis-Dashboard.png          # Preview of the HR dashboard
+│
+├── Supermarket-Dashboard/
+│   ├── Supermarket_Store.pbix            # Power BI file for Supermarket Dashboard
+│   └── Supermarket-Dashboard.png          # Preview of the supermarket dashboard
+│
+├── ISFA-Dashboard/
+│   ├── ISFA.pbix                          # Power BI file for Startup Failure Dashboard
+│   └── ISFA_Overview.pdf                  # Overview PDF of the project
+│
+└── README.md                              # Documentation file for the entire repo  
 ```
 
 ---
