@@ -67,6 +67,29 @@ Track sales performance, product category trends, and inventory movement for a r
 
 ---
 
+## 📌 Dashboard 3: Indian Startup Failure Analysis (ISPA)
+
+### 🔍 Objective  
+Analyze patterns of startup failures in India to understand contributing factors, peak failure years, and sectoral trends.
+
+### ⚙️ Features  
+- Total failed startups overview  
+- Average lifespan of startups  
+- Peak failure year visualization  
+- Top failed sectors  
+- Filters for domain and year  
+
+### 🛠 Tools & Tech  
+- **Power BI**, **Power Query**, **DAX**  
+- Cleaned and preprocessed dataset in Python  
+- Transformed data in Power BI using Power Query  
+- Visualized trends using slicers, line charts, and bar graphs  
+
+### 💡 Impact  
+✅ Provided actionable insights to investors and entrepreneurs on failure patterns in the Indian startup ecosystem.
+
+---
+
 ## 🖼️ Previews
 
 ### HR Dashboard
